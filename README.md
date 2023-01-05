@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zaki_dawrey" target="blank"><img src="https://img.shields.io/twitter/follow/zaki_dawrey?logo=twitter&style=for-the-badge" alt="zaki_dawrey" /></a> </p>
 
-- 🔭 I’m currently working on [FleakedOut](https://www.fleakedout.com)
-
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C**
 
 - 💬 Ask me about **Java**
 
