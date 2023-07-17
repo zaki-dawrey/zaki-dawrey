@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Zaki</h1>
-<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaki-dawrey&label=Profile%20views&color=0e75b6&style=flat" alt="zaki-dawrey" /> </p>
 
@@ -7,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/zaki_dawrey" target="blank"><img src="https://img.shields.io/twitter/follow/zaki_dawrey?logo=twitter&style=for-the-badge" alt="zaki_dawrey" /></a> </p>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Java**
 
