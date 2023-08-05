@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zaki</h1>
+<h1 align="center">Hi, I'm Zaki</h1>
 
 
 - 📫 How to reach me **zdawrey@gmail.com**
