@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [zakidawrey.me](https://zakidawrey.me/)
 
-- 💬 Ask me about **Java|Flutter|Javascript**
+- 💬 Ask me about **Java | Flutter | Javascript**
 
 - 📫 How to reach me **zdawrey@gmail.com**
 
