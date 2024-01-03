@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SvelteKit**
 
-- 👨‍💻 All of my projects are available at [zakidawrey.me](https://www.zakidawrey.me)
+- 👨‍💻 All of my projects are available at [zakidawrey.me](https://zakidawrey.me/)
 
 - 💬 Ask me about **Java|Flutter|Javascript**
 
