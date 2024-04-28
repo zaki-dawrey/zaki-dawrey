@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **go**
 
-- 👨‍💻 All of my projects are available at [zakidawrey.me](https://zakidawrey.me/)
+- 👨‍💻 All of my projects are available at [zakidawrey.me](https://portfolio-seven-tau-98.vercel.app/)
 
 - 💬 Ask me about **Java | Flutter | Javascript**
 
