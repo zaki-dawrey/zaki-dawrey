@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zaki Dawrey</h1>
-<h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **E-Commerce website**
-
-- 🌱 I’m currently learning **SvelteKit**
+- 🌱 I’m currently learning **go**
 
 - 👨‍💻 All of my projects are available at [zakidawrey.me](https://zakidawrey.me/)
 
