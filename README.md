@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zaki Dawrey</h1>
+<h1 align="center">Hi 👋, I'm Zaki</h1>
 
 - 🌱 I’m currently learning **go**
 
