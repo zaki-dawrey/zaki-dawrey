@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [zakidawrey.me](https://zakidawrey.me/)
+- 👨‍💻 All of my projects are available at [zakidawrey.tech](https://zakidawrey.tech/)
 
 - 💬 Ask me about **Java | Flutter | Javascript**
 
