@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Zaki</h1>
-
 - 🌱 I’m currently working on [utilbase.studio](https://utilbase.studio/)
 
 - 👨‍💻 All of my projects are available at [zakidawrey.tech](https://zakidawrey.tech/)
